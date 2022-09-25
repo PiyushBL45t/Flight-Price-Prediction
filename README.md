@@ -22,3 +22,8 @@
 4. Pickle
 
 ## Visualiation Images
+<img src = "https://github.com/PiyushBL45t/Fligth-Price-Prediction/blob/main/Images/Screenshot%20(10).png"/>
+<img src = "https://github.com/PiyushBL45t/Fligth-Price-Prediction/blob/main/Images/Screenshot%20(11).png"/>
+<img src = "https://github.com/PiyushBL45t/Fligth-Price-Prediction/blob/main/Images/Screenshot%20(7).png"/>
+<img src = "https://github.com/PiyushBL45t/Fligth-Price-Prediction/blob/main/Images/Screenshot%20(8).png"/>
+<img src = "https://github.com/PiyushBL45t/Fligth-Price-Prediction/blob/main/Images/Screenshot%20(9).png"/>
